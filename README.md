@@ -6,14 +6,11 @@ This is a command-line application designed to manage a company's employee datab
 
 ## Table of Contents
 
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [License](#license)
 
-## Installation
-Navigate to the project directory
-Install dependencies
-1. **Clone the repository:**
+
 ## Usage
    Start the application: node index.js
    Follow the prompts:
