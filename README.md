@@ -8,13 +8,16 @@ This is a command-line application designed to manage a company's employee datab
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Database Schema](#database-schema)
-- [Features](#features)
 - [License](#license)
 
 ## Installation
-
+Navigate to the project directory
+Install dependencies
 1. **Clone the repository:**
+## Usage
+   Start the application: node index.js
+   Follow the prompts:
 
-   ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+The application will present you with several options to manage departments, roles, and employees.
+Use the arrow keys to navigate through the options and hit Enter to select.
+This project is licensed under the MIT License. See the LICENSE file for details.
